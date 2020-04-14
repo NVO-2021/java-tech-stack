@@ -1,5 +1,6 @@
 # java-tech-stack
-the repository of java tech stack.
+The repository of java tech stack.
+BTW,we always collect some Media Platform's technical digests and so on.
 
 # repository
 
